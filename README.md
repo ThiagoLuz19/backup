@@ -1,6 +1,9 @@
 # Aplicação Flask para Backup de Diretórios  
 
-Este projeto é uma aplicação web desenvolvida com **Flask** que permite aos usuários selecionar um diretório em seu sistema e criar automaticamente uma pasta de backup no mesmo local. Além disso, a aplicação oferece a opção de baixar os arquivos de backup, garantindo que os usuários possam acessar suas cópias de segurança de forma rápida e prática.  
+Este projeto é uma aplicação web desenvolvida com **Flask** que permite aos usuários selecionar um diretório em seu sistema e criar automaticamente uma pasta de backup no mesmo local. Além disso, a aplicação oferece a opção de baixar os arquivos de backup, garantindo que os usuários possam acessar suas cópias de segurança de forma rápida e prática.
+
+![image](https://github.com/user-attachments/assets/ab4d7745-f722-4651-8c43-a990ed26a47c)
+
 
 A interface do projeto foi projetada para ser **intuitiva e responsiva**, funcionando perfeitamente tanto em dispositivos **desktop** quanto **mobile**. O objetivo é proporcionar uma solução simples e eficaz para a criação de backups sem a necessidade de conhecimentos avançados em programação ou sistemas operacionais.  
 
